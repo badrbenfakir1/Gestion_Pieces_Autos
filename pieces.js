@@ -63,6 +63,7 @@ boutonFilter.addEventListener("click" , function() {
     });
     document.querySelector(".fiches").innerHTML = "";
     genererPieces(piecesFiltrees);
+    
 });
 
 
