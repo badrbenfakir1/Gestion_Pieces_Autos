@@ -182,3 +182,5 @@ inputPrixMax.addEventListener('input', function(){
 
 
 
+
+
