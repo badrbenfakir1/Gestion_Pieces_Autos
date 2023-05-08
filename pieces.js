@@ -76,6 +76,8 @@ boutonTrierDecroissant.addEventListener("click",function(){
     });
     document.querySelector(".fiches").innerHTML = "";
     genererPieces(piecesOrdonnes);
+    
+    
 });
 
 
